@@ -1,22 +1,15 @@
 *{
     margin: 0;
+    padding: 0;
 
 }
 body{
     font-family: Helvetica, sans-serif;
 }
 .logo{
-    width: 15%;
-    padding-top: 20px;
+    width: 240px;
+    height: 85px;
 
-}
-.logo-text {
-    color:#1877f2;
-    font-size:55px;
-    font-weight:bold;
-    text-decoration: none;
-    font-family: Helvetica Neue, Helvetica,Arial, sans-serif;
-    margin-left: -60px;
 }
 .main{
     display: flex;
