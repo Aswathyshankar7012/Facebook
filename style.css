@@ -5,14 +5,16 @@ body{
     font-family: Helvetica, sans-serif;
 }
 .logo{
-    width: 20px;
-    height: 20px;
+    width: 15%;
+    padding-top: 20px;
 }
 .logo-text {
     color:#1877f2;
-    font-size:50px;
+    font-size:55px;
     font-weight:bold;
+    text-decoration:none;
     font-family: Helvetica Neue, Helvetica,Arial, sans-serif;
+    margin-left:-50px;
 }
 .main{
     display: flex;
