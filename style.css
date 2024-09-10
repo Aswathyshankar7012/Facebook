@@ -1,15 +1,20 @@
 *{
     margin: 0;
-    padding: 0;
-
 }
 body{
     font-family: Helvetica, sans-serif;
 }
 .logo{
-    width: 240px;
-    height: 85px;
-
+    width: 15%;
+    height: 20px;
+}
+.logo-text {
+    color:#1877f2;
+    font-size:55px;
+    font-weight:bold;
+    text-decoration: none;
+    font-family: Helvetica Neue, Helvetica,Arial, sans-serif;
+    margin-left: -50px;
 }
 .main{
     display: flex;
