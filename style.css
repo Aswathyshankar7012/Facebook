@@ -14,7 +14,7 @@ body{
     font-weight:bold;
     text-decoration:none;
     font-family: Helvetica Neue, Helvetica,Arial, sans-serif;
-    align-items:center;
+    margin-left:5px;
 }
 .main{
     display: flex;
